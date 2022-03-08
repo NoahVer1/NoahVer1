@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NoahVer1
+- 👋 Hi, I’m @hecker
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning for electrician
 - 📫 How to reach me -> noah.verkinderen@gmail.com
